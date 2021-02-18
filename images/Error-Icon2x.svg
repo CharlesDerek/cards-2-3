@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Error Icon@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Error-Icon" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M0,8 C0,3.582 3.581,0 8,0 C12.418,0 16,3.582 16,8 C16,12.418 12.418,16 8,16 C3.581,16 0,12.418 0,8 Z M9.315,10.718 C9.702,11.105 10.331,11.105 10.718,10.718 C11.106,10.331 11.106,9.702 10.718,9.315 L9.41,8.007 L10.718,6.698 C11.105,6.311 11.105,5.683 10.718,5.295 C10.33,4.907 9.702,4.907 9.315,5.295 L8.007,6.603 L6.694,5.291 C6.307,4.903 5.678,4.903 5.291,5.291 C4.903,5.678 4.903,6.306 5.291,6.694 L6.603,8.006 L5.291,9.319 C4.903,9.707 4.903,10.335 5.291,10.722 C5.678,11.11 6.307,11.11 6.694,10.722 L8.007,9.41 L9.315,10.718 Z" id="path-1"></path>
+        </g>
+    </g>
+</svg>
